@@ -1,0 +1,12 @@
+-- Steps to generate a solution for the take-home test (factored)
+
+-- 1. create a database to gather the data
+-- 2. import the dataset
+-- 3. explore the data set to find answers (SQL AND EXCEL):
+-- 3.1 --> QUESTIONS 1 AND 2
+-- 3.2 --> QUESTION 3
+-- 3.3 --> QUESTION 4
+-- 4. generate visualizations to address the questions (POWER BI)
+-- 5. finalize the report
+-- end
+
